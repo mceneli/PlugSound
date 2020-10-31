@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlugSound</string>
+    <string name="listen">Takma Sesini Dinle</string>
+    <string name="listen2">Çıkarma Sesini Dinle</string>
+    <string name="enterText">Metin girin.</string>
+    <string name="save">Kaydet</string>
+    <string name="connected">Takıldığında</string>
+    <string name="disconnected">Çıkarıldığında</string>
+</resources>
